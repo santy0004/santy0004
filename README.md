@@ -14,7 +14,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=santy0004&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
+[![](https://visitcount.itsvg.in/api?id=santy0004&label=Views&color=11&pretty=true)](https://visitcount.itsvg.in)
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
