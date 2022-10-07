@@ -14,12 +14,11 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=santy0004&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-[![](https://visitcount.itsvg.in/api?id=santy0004&label=Views&color=11&pretty=true)](https://visitcount.itsvg.in)
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=santy0004&icon=2&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=santy0004&label=Views&color=11&pretty=true)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/iitssanty) 
