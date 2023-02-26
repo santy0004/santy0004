@@ -21,7 +21,6 @@
 [![](https://visitcount.itsvg.in/api?id=santy0004&label=Views&color=11&pretty=true)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/iitssanty) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/SantoloVito) 
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
