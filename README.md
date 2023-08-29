@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻Simple user<br>💻Studying cybersecurity and criminology<br>🎬Born in 2004
+👨‍💻Simple user<br>💻Studying cybersecurity and forensic IT<br>🎬Born in 2004
 
 
 ## 🌐 Socials:
